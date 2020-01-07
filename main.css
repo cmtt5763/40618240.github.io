@@ -1,0 +1,28 @@
+h1 {
+  background-color: #e716a8;
+  color: #ffffff;
+}
+h2 {
+    background-color: #5a17d8;
+    color: #ffffff;
+  }
+  h3 {
+    background-color: #301beb;
+    color: #ffffff;
+  }
+  h4 {
+    background-color: rgb(16, 235, 107);
+    color: #ffffff;
+  }
+  h5 {
+    background-color: rgb(225, 240, 20);
+    color: #ffffff;
+  }
+  h6 {
+    background-color: rgb(245, 137, 13);
+    color: #ffffff;
+  }
+  h7 {
+    background-color: rgb(255, 0, 34);
+    color: #ffffff;
+  }
